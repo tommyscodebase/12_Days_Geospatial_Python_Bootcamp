@@ -1,1 +1,1 @@
-The world csv data was downloaded from Kaggle at the url: https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset/data
+The world csv data was downloaded from Kaggle at the url: https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset/data and the world.geojson data was created from geopandas naturalearth_lowres data
